@@ -22,16 +22,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Kanbas APP
-        </a></p>
-        <p>Relavant links: <a
+          Kanbas APP || 
+        </a><a
           className="App-link"
           href="https://github.com/BachaniS/kanbas-react-web-app/tree/a1"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Github
-        </a></p>
+        >  Github </a>
+        </p>
       </header>
     </div>
   );
