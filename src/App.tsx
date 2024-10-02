@@ -18,14 +18,14 @@ function App() {
         <br/>
         <p>Relavant links: <a
           className="App-link"
-          href="https://a1--cs5610kanbas.netlify.app/"
+          href="https://a2--cs5610kanbas.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Kanbas APP || 
         </a><a
           className="App-link"
-          href="https://github.com/BachaniS/kanbas-react-web-app/tree/a1"
+          href="https://github.com/BachaniS/kanbas-react-web-app/tree/a2"
           target="_blank"
           rel="noopener noreferrer"
         >  Github </a>
