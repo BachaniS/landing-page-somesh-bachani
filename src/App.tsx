@@ -73,10 +73,6 @@ function App() {
               </a>
               <figcaption>Labs</figcaption>
             </figure>
-            <br />
-            <br />
-            <br />
-            <br />
           </div>
         </div>
       </header>
