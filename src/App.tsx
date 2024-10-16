@@ -23,7 +23,7 @@ function App() {
             <img
               src="https://www.instructure.com/sites/default/files/image/2021-12/Canvas_logo_single_mark.png"
               alt="Canvas Logo"
-              style={{ width: '20px', height: '20px' }}
+              style={{ width: '40px', height: '40px' }}
             />
             </a>
           {' || '}
@@ -36,7 +36,7 @@ function App() {
             <img
               src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
               alt="GitHub"
-              style={{ width: '20px', height: '20px' }}
+              style={{ width: '40px', height: '40px' }}
             />
             </a>
         </p>
