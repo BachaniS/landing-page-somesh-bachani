@@ -18,7 +18,7 @@ function App() {
         <br/>
         <p>Relavant links: <a
           className="App-link"
-          href="https://a2--cs5610kanbas.netlify.app/"
+          href="https://a3--cs5610kanbas.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
