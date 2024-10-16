@@ -8,8 +8,20 @@ function App() {
         <h2>Northeastern University</h2>
         <h2>Fall 2024</h2>
         <div className="spacer" />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <h2>Name: Somesh M Bachani</h2>
         <h2>Section: 1</h2>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <div className="spacer" />
         <div style={{ display: "flex", justifyContent: "center", alignItems: "center" }}>
           <p style={{ margin: "0 10px" }}>Relevant links:</p>
@@ -61,6 +73,10 @@ function App() {
               </a>
               <figcaption>Labs</figcaption>
             </figure>
+            <br />
+            <br />
+            <br />
+            <br />
           </div>
         </div>
       </header>
