@@ -22,7 +22,7 @@ function App() {
             <img
               src="https://www.instructure.com/sites/default/files/image/2021-12/Canvas_logo_single_mark.png"
               alt="Canvas Logo"
-              style={{ width: "40px", height: "40px" }}
+              style={{ width: "30px", height: "30px" }}
             />
           </a>
           {" || "}
