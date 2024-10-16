@@ -14,19 +14,19 @@ body {
 .App-header {
     background-color: #182633;
     padding: 20px;
-    color: #ffffff; /* White text on dark background */
+    color: #ffffff; 
 }
 
 .App-header h1 {
     font-size: 2.5rem;
     margin: 0.5rem 0;
-    color: #ffffff; /* Ensure header text is white */
+    color: #ffffff; 
 }
 
 .App-header h2 {
     font-size: 1.5rem;
     margin: 0.5rem 0;
-    color: #ffffff; /* Ensure sub-header text is white */
+    color: #ffffff; 
 }
 
 .spacer {
