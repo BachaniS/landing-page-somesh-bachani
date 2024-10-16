@@ -24,6 +24,7 @@ function App() {
               alt="Canvas Logo"
               style={{ width: "30px", height: "30px" }}
             />
+            KANBAS
           </a>
           {" || "}
           <a
@@ -37,6 +38,7 @@ function App() {
               alt="GitHub"
               style={{ width: "30px", height: "30px" }}
             />
+            GitHub
           </a>
           {" || "}
           <a
@@ -50,6 +52,7 @@ function App() {
               alt="Labs"
               style={{ width: "30px", height: "30px" }}
             />
+            LABS
           </a>
         </p>
       </header>
