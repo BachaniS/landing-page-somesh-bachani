@@ -45,7 +45,7 @@ function App() {
             <figure style={{ margin: "0 10px" }}>
               <a
                 className="App-link"
-                href="https://github.com/BachaniS/kanbas-react-web-app/tree/a4"
+                href="https://github.com/BachaniS/kanbas-react-web-app/tree/a5"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -61,7 +61,7 @@ function App() {
             <figure style={{ margin: "0 10px" }}>
               <a
                 className="App-link"
-                href="https://a4--cs5610kanbas.netlify.app/#/Labs"
+                href="https://a5--cs5610kanbas.netlify.app/#/Labs"
                 target="_blank"
                 rel="noopener noreferrer"
               >
