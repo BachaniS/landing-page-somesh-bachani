@@ -61,6 +61,22 @@ function App() {
             <figure style={{ margin: "0 10px" }}>
               <a
                 className="App-link"
+                href="https://github.com/BachaniS/kanbas-node-server-app/tree/a1"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                  alt="GitHub"
+                  style={{ width: "30px", height: "30px" }}
+                />
+              </a>
+              <figcaption>Github Server</figcaption>
+            </figure>
+            <span>{" || "}</span>
+            <figure style={{ margin: "0 10px" }}>
+              <a
+                className="App-link"
                 href="https://a5--cs5610kanbas.netlify.app/#/Labs"
                 target="_blank"
                 rel="noopener noreferrer"
