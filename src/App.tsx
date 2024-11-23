@@ -29,7 +29,7 @@ function App() {
             <figure style={{ margin: "0 10px" }}>
               <a
                 className="App-link"
-                href="https://a4--cs5610kanbas.netlify.app/"
+                href="https://a5--cs5610kanbas.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
