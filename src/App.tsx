@@ -29,7 +29,7 @@ function App() {
             <figure style={{ margin: "0 10px" }}>
               <a
                 className="App-link"
-                href="https://project--cs5610kanbas.netlify.app/"
+                href="https://p1--cs5610kanbas.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -45,7 +45,7 @@ function App() {
             <figure style={{ margin: "0 10px" }}>
               <a
                 className="App-link"
-                href="https://github.com/BachaniS/kanbas-react-web-app/tree/project"
+                href="https://github.com/BachaniS/kanbas-react-web-app/tree/p1"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -77,7 +77,7 @@ function App() {
             <figure style={{ margin: "0 10px" }}>
               <a
                 className="App-link"
-                href="https://project--cs5610kanbas.netlify.app/#/Labs"
+                href="https://p1--cs5610kanbas.netlify.app/#/Labs"
                 target="_blank"
                 rel="noopener noreferrer"
               >
